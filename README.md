@@ -2,8 +2,6 @@
 
 I'm bolekinds from The Netherlands 🇳🇱. I make websites for other people, and script on lua sometimes. I am learning Python and C++, Python barely works on my PC, so i'll get that fixed. If you want to get in contact with me, you can DM me on discord (bolekinds#5466) or DM me on twitter (@bolekinds).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bolekinds)](https://github.com/anuraghazra/github-readme-stats)
-![My stats!](https://github-readme-stats.vercel.app/api?username=bolekinds&count_private=true&show_icons=true)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bolekinds)
 
 # 👾 Programming Languages
