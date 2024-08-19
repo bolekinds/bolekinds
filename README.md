@@ -1,6 +1,6 @@
 # 👋 Hi, I'm bolekinds!
 
-I'm bolekinds from The Netherlands 🇳🇱. I make websites for other people, and script on lua sometimes. I am learning Python and C++. If you want to contact me, you can DM me on Discord (bolekinds#5466) or twitter (@bolekinds).
+Web developer and likes javascript for some reason
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bolekinds)
 
