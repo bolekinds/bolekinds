@@ -2,12 +2,8 @@
 
 Web developer and likes javascript for some reason
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bolekinds)
-
 # 👾 Programming Languages
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" width="50" height="50"></img>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" width="50" height="50"></img>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="35" height="50"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="50" height="50"></img>
 
 # Contact
